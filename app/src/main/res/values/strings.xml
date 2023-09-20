@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Live Scores</string>
+    <string name="search">Search</string>
+    <string name="nothing_found">No Such Matches Found</string>
+    <string name="s_r">S/R</string>
+    <string name="b">B</string>
+    <string name="r">R</string>
+    <string name="batting">Batting</string>
+    <string name="inning_2">Inning 2</string>
+    <string name="inning_1">Inning 1</string>
+    <string name="vs">vs</string>
+    <string name="team_flag">Team Flag</string>
+    <string name="hits_today">Hits Today</string>
+    <string name="this_feature_will_be_added_soon">This feature will be added soon</string>
+</resources>
